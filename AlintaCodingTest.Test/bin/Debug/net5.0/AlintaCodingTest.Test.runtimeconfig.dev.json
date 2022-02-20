@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\nadambarage\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\nadambarage\\.nuget\\packages"
+    ]
+  }
+}
